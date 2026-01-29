@@ -22,9 +22,9 @@
 ## 🛠️ Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/FB-Terminator.git](https://github.com/YourUsername/FB-Terminator.git)
-   cd FB-Terminator
+```bash
+   git clone https://github.com/BoyFifteen/FB-Report-Bot.git
+   cd FB-Report-Bot
 
 ```
 
